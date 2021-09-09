@@ -4,18 +4,18 @@
 ## Configuración de pruebas con **pytest**
 
 `nota:` para todo las pruebas puedes usar esta configuración:
-### Install Command
+### Comando para instalar Pytest
 ```
 sudo -H pip3 install pytest
 ```
 
-- ## 06 Promedio con Decision
+- ## Ejercicio1
     ### Run command
     ```
-    pytest assignments/06PromedioConDecision
+    pytest assignments/Ejercicio1
  
-- ## 17 Número cuadrado mayor que 
+- ## Ejercicio2 
     ### Run command
     ```
-    pytest assignments/17NCuadradoMayor
+    pytest assignments/Ejercicio2
     ```
