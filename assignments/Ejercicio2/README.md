@@ -19,12 +19,12 @@ if __name__ == '__main__':
 Ejemplo de corrida:
 
 ```
-Escribe un número: 2
-Escribe un número: 5
-Escribe un número: 0
-Escribe un número: 12
-Escribe un número: 150
-Escribe un número: -1
+Número: 2
+Número: 5
+Número: 0
+Número: 12
+Número: 150
+Número: -1
 Tecleaste 3 múltiplos de 5
 ```
 

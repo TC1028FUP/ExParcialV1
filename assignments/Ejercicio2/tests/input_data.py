@@ -26,16 +26,16 @@ input_values = [
         # Inputs
         ["-100"],
         # Outputs
-        ["Escribe un numero: ", "Tecleaste 0 múltiplos de 5"],
+        ["Número: ", "Tecleaste 0 múltiplos de 5"],
         # Message in case of failure
         "Revisa que estes identificando y contabilizando bien los múltiplos de 5"
     ),
     # Test case 4
     (
         # Inputs
-        ["0"],
+        ["0", "-100"],
         # Outputs
-        ["Escribe un numero: ", "Tecleaste 1 múltiplos de 5"],
+        ["Número: ", "Número: ", "Tecleaste 1 múltiplos de 5"],
         # Message in case of failure
         "Revisa que estes calculando bien todos los casos"
     )

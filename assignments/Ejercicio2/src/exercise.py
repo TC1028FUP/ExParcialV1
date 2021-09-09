@@ -1,8 +1,6 @@
 def main():
-    num = int(input("Escribe un numero: "))
-    #escribe tu código abajo de esta línea
-    pass
+    #escribe todo tu código abajo de esta línea, no es necesario una función
 
 
-if __name__=='__main__':
+if __name__ == '__main__':
     main()

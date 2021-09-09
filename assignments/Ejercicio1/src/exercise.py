@@ -1,6 +1,9 @@
-def main():
-    #escribe tu código abajo de esta línea
-    
+# Escribe debajo de esta línea tu función
 
-if __name__=='__main__':
+
+def main():
+  #escribe aqupi el código para interactuar con el usuario y usar la función
+
+
+if __name__ == '__main__':
     main()
